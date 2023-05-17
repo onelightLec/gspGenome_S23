@@ -15,19 +15,46 @@ Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a detailed topic o
 
 Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12:00 pm (Beijing Time). Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
 
-# Content
+**Zoom/Lark meeting Link**
 
-## Week 1 - 1 (Jun. 20)
+# Class Material
 
-### DNA, Chromatin, and Transcription**
+## **0** DNA, Chromatin, and Transcription (Jun. 20)
 
-**Goals**
+**Topics**
 
-Introduction to the structure basis of DNA, nucleosomes, chromatins, and nucleus; Histone modifications and DNA methylations; Elements of genes and the transcription program; *Cis*- and *trans*-regulation.
+- Structure basis of DNA, nucleosomes, chromatins, and nucleus;
+- Histone modifications and DNA methylations;
+- Elements of genes and the transcription program;
+- *Cis*- and *trans*-regulation.
 
-**Class Materials**
+**Main material**
+
+- Lecture Slide
 
 **Supplementary**
 
-- Additional readings: *Perspectives on transcription regulation*
-  Lis, J. T. A 50 year history of technologies that drove discovery in eukaryotic transcription regulation.    Nat. Struct. Mol. Biol. 26, 777-782 (2019).
+- Additional reading: *Perspectives on transcription regulation: A 50 year history of technologies that drove discovery in eukaryotic transcription regulation*
+
+
+## **1** Methods to Discovery (Jun. 24)
+
+**Topics**
+
+- Quantification of gene expression (from RNA to proteins);
+- Functional analysis of genes: fluorescent reporter assay, *in situ* hybridization, genetic perturbations (RNAi, CRISPR/Cas system, and protein degrons); 
+- Introduction to omics.
+- *Principle of paper discussion*
+
+**Main material**
+
+- Lecture Slide
+
+- Discussion paper 1: *Protein degrons*
+This paper is scheduled to discussion on class 3, Jun. 27
+
+**Supplementary**
+
+- Following paper to Discussion paper 1: *Advanced protein degrons*
+
+## **2** Sequence, Omics, and Bioinformatics I (Jun. 27)
