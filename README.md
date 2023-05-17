@@ -17,8 +17,7 @@ Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a detailed topic o
 
 Class meets online using Zoom on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
 
-[**Zoom Link**](https://ucsd.zoom.us/j/94452736592?pwd=SUoxUVkrVTd6emFFNUR3a2JvQ3F1dz09)
-**Passcode:** *genome*
+**Zoom Link:** [GSPgenome](https://ucsd.zoom.us/j/94452736592?pwd=SUoxUVkrVTd6emFFNUR3a2JvQ3F1dz09) <br> **Passcode:** *genome*
 
 Each class comprises 1 hour of lecture and 1 ~ 1.5 hour of discussions or hands-on sessions, subject to change based on the progress of study.
 
@@ -46,7 +45,7 @@ Week 5 is scheduled for research proposal project. Recommended topics will be pr
 
 **Supplementary**
 
-- Additional reading: Perspectives on transcription regulation <br> *A 50 year history of technologies that drove discovery in eukaryotic transcription regulation*
+- Additional reading: *Perspectives on transcription regulation* <br> [A 50 year history of technologies that drove discovery in eukaryotic transcription regulation](https://github.com/onelightsGan/gspGenome_S23/tree/cad601f09d78f26e07146ae69fd5469461db17d7/Reference%20Paper/Week%201-1)
 
 
 ## Week 1 - 2 (Jun. 24) <br> Methods to Discovery
