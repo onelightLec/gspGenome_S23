@@ -3,6 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
-.container {
+.main-content {
   max-width: 100%;
+}
+
+.wrapper {
+  max-width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
 }
