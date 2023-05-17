@@ -10,21 +10,21 @@ Teaching Assistant: TBA
 
 # Overview
 
-In eukaryotes, the genome is extensively compacted inside the nucleus, hierarchically organized at a multiscale of structural units. One of the most critical roles of these delicately regulated structures is the control of transcriptional dynamics. Transcriptional regulations have been recognized as the primary regulatory mechanisms coordinating cellular activities, responses, cell type and fate determinations. No doubt, regulations on transcription are hugely achieved by changes in regulatory factors and structural configuration. Yet, with more than two hundred years of study on the genome, we are just starting to realize the complexity lies within … 
+In eukaryotes, the genome is extensively compacted and hierarchically organized within the nucleus, featuring multiscale structural units. One of the most critical roles of these delicately regulated structures is the control of transcriptional dynamics. Transcriptional regulations have been recognized as the primary regulatory mechanisms coordinating cellular activities, responses, cell type and fate determinations. No doubt, regulations on transcription are hugely achieved by changes in regulatory factors and structural configuration. Yet, with more than two hundred years of study on the genome, we are just starting to realize the complexity lies within … 
 
 Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a list of topics outlined and learning goals, available for download.
 
 
 # Schedule
 
-Class meets online using Zoom on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
+Class meets online using Zoom on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change based on the progress of study.
 
 **Zoom Link:** [GSPgenome](https://ucsd.zoom.us/j/94452736592?pwd=SUoxUVkrVTd6emFFNUR3a2JvQ3F1dz09) <br> 
 **Passcode:** *genome*
 
-Each class comprises 1 hour of lecture and 1 ~ 1.5 hour of discussions or hands-on sessions, subject to change based on the progress of study.
+Each class comprises 1 hour of lecture and 1 ~ 1.5 hour of discussions or hands-on sessions.
 
-Literature discussion is scheduled for each week. A research article and a related synopsis will be posted one or half week prior to the discussion. Students should read the article and complete the synopsis before the discussion. For each discussion, 1 ~ 2 students will be selected as discussion leader to guide the discussion. 
+Paper discussion is scheduled for each week. A research article and a synopsis question set will be posted one or half week prior to the discussion. Students should read the article and complete the synopsis before the discussion. For each discussion, 1 ~ 2 students will be selected as discussion leader to guide the discussion. 
 
 Week 2, 4 will have hands-on sessions, which requires Win/Mac setup, specific details to be determined.
 
