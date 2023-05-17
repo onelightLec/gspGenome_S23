@@ -2,7 +2,7 @@
 
 The Complex Genome Course of the Graduate Seminar Program (GSP) - Summer 2023
 
-The Complex Genome: Structure to Function (GSPgenome) is a Graduate Seminar Program course run by One Lights Edu in the Summer of 2023.
+The Complex Genome: Structure to Function (GSPgenome) is a Graduate Seminar Program course run by One Lights Edu in the Summer of 2023. Check the [GSP Brochure](/Graduate Seminar Program Brochure 3.0.pdf) for more information about the prgram.
 
 Author and course director: **Diwen (Steven) Gan** ([digan@ucsd.edu](mailto:digan@ucsd.edu)) <br> 
 Teaching Assistant: TBA
@@ -70,7 +70,7 @@ Week 5 is scheduled for research proposal project. Recommended topics will be pr
 
 - [Discussion paper 1: Protein degrons](Reference Paper/Week 1-2/Paper 1_Protein degrons.pdf) <br> 
 [Supplementary file to paper 1](Reference Paper/Week 1-2/Paper 1_Supple_Protein degrons.pdf) <br> 
-Synopsis <br>
+[Synopsis](Reference Paper/Synopsis.docx) <br>
 This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 20.
 
 **Supporting materials**
@@ -98,7 +98,7 @@ This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 20.
 
 - [Discussion paper 2: Loop extrusion model](Reference Paper/Week 2-1/Paper 2_Loop extrusion model.pdf) <br> 
 [Supplementary file to paper 2](Reference Paper/Week 2-1/Paper 2_Supple_Loop extrusion model.pdf) <br> 
-Synopsis <br>
+[Synopsis](Reference Paper/Synopsis.docx) <br>
 This paper is scheduled to discuss on Week 3 - 1 Class, Jun. 27.
 
 **Supporting materials**
@@ -147,7 +147,7 @@ This paper is scheduled to discuss on Week 3 - 1 Class, Jun. 27.
 - Recording
 
 - [Discussion paper 3: Cohesin and chromatin structure](Reference Paper/Week 3-1/Paper 3_Cohesin and chromatin structure.pdf) <br> [Supplementary file to paper 3](Reference Paper/Week 3-1/Paper 3_Supple_Cohesin and chromatin structure.pdf) <br> 
-Synopsis <br>
+[Synopsis](Reference Paper/Synopsis.docx) <br>
 This paper is scheduled to discuss on Week 3 - 2 Class, July 1.
 
 **Supporting materials**
@@ -179,7 +179,7 @@ This paper is scheduled to discuss on Week 3 - 2 Class, July 1.
 
 - [Discussion paper 4: Phase separation at enhancer regions](Reference Paper/Week 3-2/Paper 4_Phase separation at enhancer regions.pdf) <br>
 [Supplementary file to paper 4](Reference Paper/Week 3-2/Paper 4_Supple_Phase separation at enhancer regions.pdf) <br>
-Synopsis <br>
+[Synopsis](Reference Paper/Synopsis.docx) <br>
 This paper is scheduled to discuss on Week 4 - 1 Class, July 4.
 
 **Supporting materials**
@@ -207,7 +207,7 @@ This paper is scheduled to discuss on Week 4 - 1 Class, July 4.
 
 - [Discussion paper 5: Loop stacking model](Reference Paper/Week 4-1/Paper 5_Loop stacking model.pdf) <br>
 [Supplementary file to paper 5](Reference Paper/Week 4-1/Paper 5_Supple_Loop stacking model.pdf) <br>
-Synopsis <br>
+[Synopsis](Reference Paper/Synopsis.docx) <br>
 This paper is scheduled to discuss on Week 5 - 1 Class, July 11.
 
 **Supporting materials**
