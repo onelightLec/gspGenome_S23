@@ -19,7 +19,7 @@ Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12
 
 # Class Material
 
-## **0** DNA, Chromatin, and Transcription (Jun. 20)
+## Week 1 - 1 (Jun. 20) <br> DNA, Chromatin, and Transcription
 
 **Topics**
 
@@ -34,10 +34,10 @@ Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12
 
 **Supplementary**
 
-- Additional reading: *Perspectives on transcription regulation: A 50 year history of technologies that drove discovery in eukaryotic transcription regulation*
+- Additional reading: *Perspectives on transcription regulation*
 
 
-## **1** Methods to Discovery (Jun. 24)
+## Week 1 - 2 (Jun. 24) <br> Methods to Discovery
 
 **Topics**
 
@@ -50,11 +50,10 @@ Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12
 
 - Lecture Slide
 
-- Discussion paper 1: *Protein degrons*
-This paper is scheduled to discussion on class 3, Jun. 27
+- Discussion paper 1: *Protein degrons* <br> This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 27
 
 **Supplementary**
 
 - Following paper to Discussion paper 1: *Advanced protein degrons*
 
-## **2** Sequence, Omics, and Bioinformatics I (Jun. 27)
+## Week 2 - 1 (Jun. 27) <br> Sequence, Omics, and Bioinformatics I
