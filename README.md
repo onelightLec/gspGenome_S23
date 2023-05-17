@@ -27,9 +27,10 @@ Week 2, 4 will have hands-on sessions, which requires Win/Mac setup, specific de
 Week 5 is scheduled for research proposal project. Recommended topics will be provided on week 3. However, students can pick other topics related to the course and discuss with the instructor no later than week 9.
 
 
-# Class Material
+# Class Materials
 
-## Week 1 - 1 (Jun. 20) <br> DNA, Chromatin, and Transcription
+
+## Week 1 - 1 (Jun. 13) <br> DNA, Chromatin, and Transcription
 
 **Topics**
 
@@ -38,16 +39,17 @@ Week 5 is scheduled for research proposal project. Recommended topics will be pr
 - Elements of genes and the transcription program;
 - *Cis*- and *trans*-regulation.
 
-**Main material**
+**Main materials**
 
 - Lecture Slide
+- Recording
 
-**Supplementary**
+**Supporting materials**
 
-- Additional reading: *Perspectives on transcription regulation* <br> [A 50 year history of technologies that drove discovery in eukaryotic transcription regulation](https://github.com/onelightsGan/gspGenome_S23/blob/cad601f09d78f26e07146ae69fd5469461db17d7/Reference%20Paper/Week%201-1/A%2050%20year%20history%20of%20technologies%20that%20drove%20discovery%20in%20eukaryotic%20transcription%20regulation.pdf)
+- Additional reading: [Perspectives on transcription regulation](Reference Paper/Week 1-1/A 50 year history of technologies that drove discovery in eukaryotic transcription regulation.pdf)
 
 
-## Week 1 - 2 (Jun. 24) <br> Methods to Discovery
+## Week 1 - 2 (Jun. 17) <br> Methods to Discovery
 
 **Topics**
 
@@ -56,15 +58,17 @@ Week 5 is scheduled for research proposal project. Recommended topics will be pr
 - Introduction to omics;
 - *Principle of paper discussion*.
 
-**Main material**
+**Main materials**
 
 - Lecture Slide
+- Recording
 
-- Discussion paper 1: *Protein degrons* <br> *Supplementary file* <br> This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 27
+- [Discussion paper 1: Protein degrons](Reference Paper/Week 1-2/Paper 1_Protein degrons.pdf) <br> [Supplementary information](Reference Paper/Week 1-2/Paper 1_Supple_Protein degrons.pdf) <br> This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 20
 
-**Supplementary**
+**Supporting materials**
 
-- Following paper 1: Advanced protein degrons <br> *The auxin-inducible degron 2 technology provides sharp degradation control in yeast, mammalian cells, and mice*
+- Following the paper 1: [Advanced protein degrons](Reference Paper/Week 1-2/The auxin-inducible degron 2 technology provides sharp degradation control in yeast, mammalian cells, and mice.pdf)
+
 
 ## Week 2 - 1 (Jun. 27) <br> Sequence, Omics, and Bioinformatics I
 
