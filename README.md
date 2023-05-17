@@ -3,7 +3,7 @@ The Complex Genome Course of the Graduate Seminar Program (GSP) - Summer 2023
 
 The Complex Genome: Structure to Function (gspGenome) is a Graduate Seminar Program course run by One Lights Edu in the Summer of 2023.
 
-Author and course director: Diwen (Steven) Gan (digan@ucsd.edu)
+Author and course director: **Diwen (Steven) Gan** ([digan@ucsd.edu](mailto:digan@ucsd.edu))
 
 # Overview
 
@@ -13,7 +13,7 @@ Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a detailed topic o
 
 # Schedule
 
-Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12:00 pm (Beijing Time). Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
+Class meets online using Zoom/Lark on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
 
 **Zoom/Lark meeting Link**
 
@@ -43,8 +43,8 @@ Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12
 
 - Quantification of gene expression (from RNA to proteins);
 - Functional analysis of genes: fluorescent reporter assay, *in situ* hybridization, genetic perturbations (RNAi, CRISPR/Cas system, and protein degrons); 
-- Introduction to omics.
-- *Principle of paper discussion*
+- Introduction to omics;
+- *Principle of paper discussion*.
 
 **Main material**
 
@@ -57,3 +57,22 @@ Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12
 - Following paper to Discussion paper 1: *Advanced protein degrons*
 
 ## Week 2 - 1 (Jun. 27) <br> Sequence, Omics, and Bioinformatics I
+
+**Topics**
+
+- Three generations of sequencing;
+- Sequence alignment; Genomics and genome element (GWAS);
+- Transcriptomics (RNA-seq & nascent RNA-seq).
+- *Paper 1 discussion*; 
+- *Hands-on session: Sequence alignment & database searching*.
+
+**Main material**
+
+- Lecture Slide
+- Hands-on Manaul
+
+- Discussion paper 2: *Loop extrusion model* <br> This paper is scheduled to discuss on Week 3 - 1 Class, July. 4
+
+**Supplementary**
+
+- Additional reading: *Review of high-throughput sequencing*
