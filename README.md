@@ -5,7 +5,7 @@ The Complex Genome: Structure to Function (GSPgenome) is a Graduate Seminar Prog
 
 Author and course director: **Diwen (Steven) Gan** ([digan@ucsd.edu](mailto:digan@ucsd.edu))
 Teaching Assistant: TBA
-
+1
 
 # Overview
 
