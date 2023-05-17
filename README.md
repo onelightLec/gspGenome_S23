@@ -34,7 +34,7 @@ Class meets online using Zoom/Lark on **Tuesday** and **Saturday** at **10:00 am
 
 **Supplementary**
 
-- Additional reading: *Perspectives on transcription regulation*
+- Additional reading: Perspectives on transcription regulation <br> *A 50 year history of technologies that drove discovery in eukaryotic transcription regulation*
 
 
 ## Week 1 - 2 (Jun. 24) <br> Methods to Discovery
@@ -50,11 +50,11 @@ Class meets online using Zoom/Lark on **Tuesday** and **Saturday** at **10:00 am
 
 - Lecture Slide
 
-- Discussion paper 1: *Protein degrons* <br> This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 27
+- Discussion paper 1: *Protein degrons* <br> *Supplementary file* <br> This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 27
 
 **Supplementary**
 
-- Following paper to Discussion paper 1: *Advanced protein degrons*
+- Following paper 1: Advanced protein degrons <br> *The auxin-inducible degron 2 technology provides sharp degradation control in yeast, mammalian cells, and mice*
 
 ## Week 2 - 1 (Jun. 27) <br> Sequence, Omics, and Bioinformatics I
 
@@ -62,8 +62,8 @@ Class meets online using Zoom/Lark on **Tuesday** and **Saturday** at **10:00 am
 
 - Three generations of sequencing;
 - Sequence alignment; Genomics and genome element (GWAS);
-- Transcriptomics (RNA-seq & nascent RNA-seq).
-- *Paper 1 discussion*; 
+- Transcriptomics (RNA-seq & nascent RNA-seq);
+- *Paper 1 discussion*;
 - *Hands-on session: Sequence alignment & database searching*.
 
 **Main material**
@@ -75,4 +75,4 @@ Class meets online using Zoom/Lark on **Tuesday** and **Saturday** at **10:00 am
 
 **Supplementary**
 
-- Additional reading: *Review of high-throughput sequencing*
+- Additional reading: Review of high-throughput sequencing <br> *High-Throughput Sequencing Technologies*
