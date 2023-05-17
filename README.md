@@ -17,10 +17,10 @@ Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a list of topics o
 
 # Schedule
 
-Class meets online using Zoom on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change based on the progress of study.
+Class meets online using Zoom/Lark on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change based on the progress of study.
 
-**Zoom Link:** [GSPgenome](https://ucsd.zoom.us/j/94452736592?pwd=SUoxUVkrVTd6emFFNUR3a2JvQ3F1dz09) <br> 
-**Passcode:** *genome*
+**Zoom/Lark Link:** [TBD]()
+**Passcode** [TBD]()
 
 Each class comprises 1 hour of lecture and 1 ~ 1.5 hour of discussions or hands-on sessions.
 
