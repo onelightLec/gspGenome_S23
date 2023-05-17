@@ -16,3 +16,18 @@ Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a detailed topic o
 Class meets online using Zoom OR Lark on Tuesday and Saturday at 10:00 am – 12:00 pm (Beijing Time). Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
 
 # Content
+
+## Week 1 - 1 (Jun. 20)
+
+### DNA, Chromatin, and Transcription**
+
+**Goals**
+
+Introduction to the structure basis of DNA, nucleosomes, chromatins, and nucleus; Histone modifications and DNA methylations; Elements of genes and the transcription program; *Cis*- and *trans*-regulation.
+
+**Class Materials**
+
+**Supplementary**
+
+- Additional readings: *Perspectives on transcription regulation*
+  Lis, J. T. A 50 year history of technologies that drove discovery in eukaryotic transcription regulation.    Nat. Struct. Mol. Biol. 26, 777-782 (2019).
