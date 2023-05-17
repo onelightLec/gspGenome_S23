@@ -1,6 +1,3 @@
-* TOC
-{:toc}
-
 # The Complex Genome: <br> Structure to Function
 The Complex Genome Course of the Graduate Seminar Program (GSP) - Summer 2023
 
