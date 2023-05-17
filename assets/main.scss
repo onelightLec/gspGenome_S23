@@ -1,5 +1,7 @@
 @import "{{ site.theme }}";
 
-.page-content, .post-content {
-  max-width: none;
+.wrapper {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
