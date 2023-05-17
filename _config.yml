@@ -1,5 +1,7 @@
 ---
 title: "gspGenome Summer 2023"
 logo: "https://media.npr.org/assets/img/2014/11/07/npr_dna_1_wide-f2c3c4c46036268e5630ec9cdb146e50c44af32a-s1600-c85.webp"
-theme: "jekyll-theme-minimal"
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 ---
