@@ -1,9 +1,10 @@
 # The Complex Genome: Structure to Function
 The Complex Genome Course of the Graduate Seminar Program (GSP) - Summer 2023
 
-The Complex Genome: Structure to Function (gspGenome) is a Graduate Seminar Program course run by One Lights Edu in the Summer of 2023.
+The Complex Genome: Structure to Function (GSPgenome) is a Graduate Seminar Program course run by One Lights Edu in the Summer of 2023.
 
 Author and course director: **Diwen (Steven) Gan** ([digan@ucsd.edu](mailto:digan@ucsd.edu))
+
 
 # Overview
 
@@ -11,11 +12,22 @@ In eukaryotes, the genome is extensively compacted inside the nucleus, hierarchi
 
 Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a detailed topic outlined and learning goals, available for download.
 
+
 # Schedule
 
-Class meets online using Zoom/Lark on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
+Class meets online using Zoom on **Tuesday** and **Saturday** at **10:00 am – 12:00 pm (Beijing Time)**. Class on Saturday, Week 5 (Week 5 – 2*) is subject to change depending on the actual pacing.
 
-**Zoom/Lark meeting Link**
+[**Zoom Link**](https://ucsd.zoom.us/j/94452736592?pwd=SUoxUVkrVTd6emFFNUR3a2JvQ3F1dz09)
+**Passcode:** *genome*
+
+Each class comprises 1 hour of lecture and 1 ~ 1.5 hour of discussions or hands-on sessions, subject to change based on the progress of study.
+
+Literature discussion is scheduled for each week. A research article and a related synopsis will be posted one or half week prior to the discussion. Students should read the article and complete the synopsis before the discussion. For each discussion, 1 ~ 2 students will be selected as discussion leader to guide the discussion. 
+
+Week 2, 4 will have hands-on sessions, which requires Win/Mac setup, specific details to be determined.
+
+Week 5 is scheduled for research proposal project. Recommended topics will be provided on week 3. However, students can pick other topics related to the course and discuss with the instructor no later than week 9.
+
 
 # Class Material
 
