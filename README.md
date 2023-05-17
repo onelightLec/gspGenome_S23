@@ -52,7 +52,7 @@ Week 5 is scheduled for research proposal project. Recommended topics will be pr
 
 - Additional reading: [Perspectives on transcription regulation](Reference Paper/Week 1-1/A 50 year history of technologies that drove discovery in eukaryotic transcription regulation.pdf)
 
-
+<br>
 ## Week 1 - 2 (Jun. 17) <br> Methods to Discovery
 
 **Topics**
@@ -76,7 +76,7 @@ This paper is scheduled to discuss on Week 2 - 1 Class, Jun. 20.
 
 - Following the paper 1: [Advanced protein degrons](Reference Paper/Week 1-2/The auxin-inducible degron 2 technology provides sharp degradation control in yeast, mammalian cells, and mice.pdf)
 
-
+<br>
 ## Week 2 - 1 (Jun. 20) <br> Sequence, Omics, and Bioinformatics I
 
 **Topics**
@@ -103,7 +103,7 @@ This paper is scheduled to discuss on Week 3 - 1 Class, Jun. 27.
 
 - Additional reading: [Review of high-throughput sequencing](Reference Paper/Week 2-1/High-Throughput Sequencing Technologies.pdf)
 
-
+<br>
 ## Week 2 - 2 (Jun. 24) <br> Sequence, Omics, and Bioinformatics II
 
 **Topics**
@@ -126,7 +126,7 @@ This paper is scheduled to discuss on Week 3 - 1 Class, Jun. 27.
 [Review_1](Reference Paper/Week 2-2/Reviews of epigenetic technologies_1.pdf) <br> 
 [Review_2](Reference Paper/Week 2-2/Reviews of epigenetic technologies_2.pdf)
 
-
+<br>
 ## Week 3 - 1 (Jun. 27) <br> Transcriptional Regulation I: <br> Enhancers and Transcription factors
 
 **Topics**
@@ -156,7 +156,7 @@ This paper is scheduled to discuss on Week 3 - 2 Class, July 1.
 [Enhancer & Promoter activities](Reference Paper/Week 3-1/Determinants of enhancer and promoter activities of regulatory elements.pdf) <br>
 [Enhancer RNA](Reference Paper/Week 3-1/Enhancers as non-coding RNA transcription units recent insights and future perspectives.pdf)
 
-
+<br>
 ## Week 3 - 2 (July 1) <br> Transcriptional Regulation II: <br> Epigenetics
 
 **Topics**
@@ -183,7 +183,7 @@ This paper is scheduled to discuss on Week 4 - 1 Class, July 4.
 [Regulatory epigenome](Reference Paper/Week 3-2/Chromatin accessibility and the regulatory epigenome.pdf) <br>
 [Histone marks profile](Reference Paper/Week 3-2/High-Resolution Profiling of Histone Methylations in the Human Genome.pdf)
 
-
+<br>
 ## Week 4 - 1 (July 4) <br> Transcriptional Regulation III: <br> Condensates and Bursting?
 
 **Topics**
@@ -210,7 +210,7 @@ This paper is scheduled to discuss on Week 5 - 1 Class, July 11.
 [Hubs thoery](Reference Paper/Week 4-1/Enhancer-promoter communication hubs or loops.pdf) <br>
 [Review on consensates & hubs](Reference Paper/Week 4-1/Developmental enhancers and chromosome topology.pdf)
 
-
+<br>
 ## Week 4 - 2 (July 8) <br> A Case of Study: <br> Estrogen Receptor
 
 **Topics**
@@ -234,7 +234,7 @@ This paper is scheduled to discuss on Week 5 - 1 Class, July 11.
 [MegaTrans enhancers](Reference Paper/Week 4-2/Enhancer Activation Requires trans-Recruitment of a Mega Transcription Factor Complex.pdf) <br>
 [Phase separation of ERE](Reference Paper/Week 4-2/Phase separation of ligand-activated enhancers licenses cooperative chromosomal enhancer assembly.pdf)
 
-
+<br>
 ## Week 5 - 1 (July 11) <br> A Case of Study: <br>  Enhancer-Promoter Contact and 3D Organization
 
 **Topics**
@@ -258,7 +258,7 @@ This paper is scheduled to discuss on Week 5 - 1 Class, July 11.
 [transcription & 3D genome](Reference Paper/Week 5-1/The role of transcription in shaping the spatial organization of the genome.pdf) <br>
 [3D genome in development](Reference Paper/Week 5-1/The role of 3D genome organization in development and cell differentiation.pdf)
 
-
+<br>
 ## Week 5 - 2 (July 15) <br> The 4D Genome and New Paradigm
 
 **Topics**
@@ -280,10 +280,10 @@ This paper is scheduled to discuss on Week 5 - 1 Class, July 11.
 [The 4D nucleome project](Reference Paper/Week 5-2/The 4D nucleome project.pdf) <br>
 [Review on the 4D genome](Reference Paper/Week 5-2/Decoding the organization, dynamics, and function of the 4D genome.pdf)
 
-
+<br>
 ## Week 6 (July 18/22) <br> Final
 
 **Research proposal presentation**
 
-
+<br>
 # ~ Have Fun ~
