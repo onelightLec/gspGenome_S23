@@ -12,8 +12,9 @@ Teaching Assistant: TBA
 
 In eukaryotes, the genome is extensively compacted and hierarchically organized within the nucleus, featuring multiscale structural units. One of the most critical roles of these delicately regulated structures is the control of transcriptional dynamics. Transcriptional regulations have been recognized as the primary regulatory mechanisms coordinating cellular activities, responses, cell type and fate determinations. No doubt, regulations on transcription are hugely achieved by changes in regulatory factors and structural configuration. Yet, with more than two hundred years of study on the genome, we are just starting to realize the complexity lies within … 
 
-Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a list of topics outlined and learning goals, available for download.
+Check the [poster](/Topic 2.png) for a grand view of the course.
 
+Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a list of topics outlined and learning goals, available for download.
 
 # Schedule
 
