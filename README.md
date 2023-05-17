@@ -1,9 +1,13 @@
-# The Complex Genome: Structure to Function
+* TOC
+{:toc}
+
+# The Complex Genome: <br> Structure to Function
 The Complex Genome Course of the Graduate Seminar Program (GSP) - Summer 2023
 
 The Complex Genome: Structure to Function (GSPgenome) is a Graduate Seminar Program course run by One Lights Edu in the Summer of 2023.
 
 Author and course director: **Diwen (Steven) Gan** ([digan@ucsd.edu](mailto:digan@ucsd.edu))
+Teaching Assistant: TBA
 
 
 # Overview
@@ -45,7 +49,7 @@ Week 5 is scheduled for research proposal project. Recommended topics will be pr
 
 **Supplementary**
 
-- Additional reading: *Perspectives on transcription regulation* <br> [A 50 year history of technologies that drove discovery in eukaryotic transcription regulation](https://github.com/onelightsGan/gspGenome_S23/tree/cad601f09d78f26e07146ae69fd5469461db17d7/Reference%20Paper/Week%201-1)
+- Additional reading: *Perspectives on transcription regulation* <br> [A 50 year history of technologies that drove discovery in eukaryotic transcription regulation](https://github.com/onelightsGan/gspGenome_S23/blob/cad601f09d78f26e07146ae69fd5469461db17d7/Reference%20Paper/Week%201-1/A%2050%20year%20history%20of%20technologies%20that%20drove%20discovery%20in%20eukaryotic%20transcription%20regulation.pdf)
 
 
 ## Week 1 - 2 (Jun. 24) <br> Methods to Discovery
