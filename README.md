@@ -7,6 +7,8 @@ The Complex Genome: Structure to Function (GSPgenome) is a Graduate Seminar Prog
 Author and course director: **Diwen (Steven) Gan** ([digan@ucsd.edu](mailto:digan@ucsd.edu)) <br> 
 Teaching Assistant: TBA
 
+<br>
+<br>
 
 # Overview
 
@@ -15,6 +17,9 @@ In eukaryotes, the genome is extensively compacted and hierarchically organized 
 Check the [poster](/Topic 2.png) for a grand view of the course.
 
 Check the [syllabus](Syllabus/GSPgenome_S23_Syllabus.pdf) for a list of topics outlined and learning goals, available for download.
+
+<br>
+<br>
 
 # Schedule
 
@@ -31,6 +36,8 @@ Week 2, 4 will have hands-on sessions, which requires Win/Mac setup, specific de
 
 Week 5 is scheduled for research proposal project. Recommended topics will be provided on week 3. However, students can pick other topics related to the course and discuss with the instructor no later than week 9.
 
+<br>
+<br>
 
 # Class Materials
 
